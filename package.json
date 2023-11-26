@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Milan Barton",
-	"description": "Educational project from Free code camp"
+	"description": "Educational project from Free code camp",
+	"keywords": ["freecodecamp", "node.js", "javascript"]
 }
