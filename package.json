@@ -13,5 +13,6 @@
 	},
 	"author": "Milan Barton",
 	"description": "Educational project from Free code camp",
-	"keywords": ["freecodecamp", "node.js", "javascript"]
+	"keywords": ["freecodecamp", "node.js", "javascript"],
+	"license": "MIT"
 }
